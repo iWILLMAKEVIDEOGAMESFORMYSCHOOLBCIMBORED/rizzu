@@ -44,7 +44,7 @@ workflows:
     publishing:
       email:
         recipients:
-          -therealediter901@gmail.com   # ← change this to your email
+          - "your@email.com"   # ← change this to your email
         notify:
           success: true
           failure: true
